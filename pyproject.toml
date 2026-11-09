@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "gtm-lead-routing-engine"
+version = "1.0.0"
+description = "Enrich, de-duplicate, score, qualify and route inbound B2B leads"
+requires-python = ">=3.10"
+dependencies = ["fastapi>=0.110", "pydantic>=2", "numpy>=1.24", "pyyaml>=6", "httpx>=0.27", "uvicorn>=0.29"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "matplotlib>=3.8"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

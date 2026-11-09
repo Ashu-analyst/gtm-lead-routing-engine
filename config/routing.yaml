@@ -1,0 +1,56 @@
+# Routing rules are evaluated top to bottom; the first match wins.
+# Existing customers always go to their account owner first (see account_owners).
+fallback_queue: nurture
+
+queues:
+  - name: enterprise-dach
+    sla_minutes: 30
+    reps:
+      - {name: Lena Weber, capacity: 15}
+      - {name: Jonas Becker, capacity: 15}
+  - name: enterprise-europe
+    sla_minutes: 30
+    reps:
+      - {name: Sofie Jansen, capacity: 15}
+      - {name: Erik Lindqvist, capacity: 15}
+  - name: midmarket
+    sla_minutes: 60
+    reps:
+      - {name: Mia Schulz, capacity: 30}
+      - {name: Tom de Vries, capacity: 30}
+      - {name: Anna Kowalska, capacity: 30, away: false}
+  - name: smb-inside-sales
+    sla_minutes: 240
+    reps:
+      - {name: Paul Richter, capacity: 60}
+      - {name: Clara Moreau, capacity: 60}
+  - name: nurture
+    sla_minutes: 1440
+    reps:
+      - {name: Marketing Nurture, capacity: 100000}
+
+rules:
+  - name: hot_enterprise_dach
+    queue: enterprise-dach
+    when: {segment: Enterprise, region: DACH, grade: [A, B]}
+  - name: hot_enterprise_europe
+    queue: enterprise-europe
+    when: {segment: Enterprise, grade: [A, B]}
+  - name: midmarket_qualified
+    queue: midmarket
+    when: {segment: Mid-Market, grade: [A, B, C]}
+  - name: enterprise_low_grade
+    queue: midmarket
+    when: {segment: Enterprise, grade: [C]}
+  - name: smb_demo_or_good_score
+    queue: smb-inside-sales
+    when: {segment: SMB, score: {gte: 40}}
+  - name: unknown_company_high_score
+    queue: smb-inside-sales
+    when: {known_company: false, score: {gte: 60}}
+
+account_owners:
+  # existing customers -> owner (one owner per account)
+  hansa-logistik.de: Lena Weber
+  nordic-pack.se: Erik Lindqvist
+  rijn-chemie.nl: Sofie Jansen

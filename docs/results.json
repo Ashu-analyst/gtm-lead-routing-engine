@@ -1,0 +1,72 @@
+{
+  "scoring": {
+    "train_rows": 4800,
+    "test_rows": 1200,
+    "base_rate": 0.155,
+    "auc_workshop_points": 0.826,
+    "auc_calibrated": 0.844,
+    "lift_top10_points": 3.71,
+    "lift_top10_calibrated": 4.03,
+    "weights": {
+      "icp_industry": 0.919,
+      "size_mid": 1.461,
+      "size_enterprise": 1.07,
+      "core_region": 1.012,
+      "senior": 1.447,
+      "manager": 0.728,
+      "demo": 1.566,
+      "views_log": 0.245,
+      "src_referral": 1.255,
+      "src_event": 0.33,
+      "src_paid": -0.111,
+      "urgent_msg": 0.965,
+      "free_mail": -0.408
+    }
+  },
+  "dedupe": {
+    "planted": 118,
+    "found": 118,
+    "false_positives": 0,
+    "precision": 1.0,
+    "recall": 1.0
+  },
+  "routing": {
+    "leads_routed": 1342,
+    "by_queue": {
+      "nurture": 970,
+      "midmarket": 279,
+      "enterprise-dach": 38,
+      "smb-inside-sales": 14,
+      "enterprise-europe": 33,
+      "account-owner": 8
+    },
+    "by_rule": {
+      "fallback": 970,
+      "midmarket_qualified": 213,
+      "hot_enterprise_dach": 38,
+      "enterprise_low_grade": 66,
+      "smb_demo_or_good_score": 14,
+      "hot_enterprise_europe": 33,
+      "existing_account": 8
+    },
+    "by_grade": {
+      "A": 120,
+      "B": 133,
+      "C": 217,
+      "D": 872
+    },
+    "rep_load": {
+      "Lena Weber": 19,
+      "Jonas Becker": 19,
+      "Sofie Jansen": 17,
+      "Erik Lindqvist": 16,
+      "Mia Schulz": 93,
+      "Tom de Vries": 93,
+      "Anna Kowalska": 93,
+      "Paul Richter": 7,
+      "Clara Moreau": 7,
+      "Marketing Nurture": 970
+    },
+    "midmarket_balance_max_minus_min": 0
+  }
+}

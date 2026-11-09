@@ -1,0 +1,404 @@
+domain,company,industry,employees,country
+hansatech.at,Hansatech GmbH,Retail,54,AT
+hansagroup.de,Hansagroup GmbH,Manufacturing,811,DE
+norlogistik.de,Norlogistik GmbH,Education,49,DE
+norgroup.de,Norgroup GmbH,Public Sector,2168,DE
+blaupack.dk,Blaupack A/S,Manufacturing,804,DK
+lindetrade.nl,Lindetrade B.V.,Chemicals,70,NL
+westlogistik.de,Westlogistik GmbH,Software,156,DE
+berglabs.at,Berglabs GmbH,Healthcare,4422,AT
+deltalogistik.be,Deltalogistik NV,Automotive,14,BE
+miraparts.co.uk,Miraparts Ltd,Logistics,36,GB
+rijnpack.ch,Rijnpack AG,Chemicals,17816,CH
+hansatrade.at,Hansatrade GmbH,Software,277,AT
+lindeparts.nl,Lindeparts B.V.,Automotive,41,NL
+alplabs.com,Alplabs Inc.,Chemicals,30,US
+lindesystems.be,Lindesystems NV,Public Sector,66,BE
+terraparts.de,Terraparts GmbH,Manufacturing,48,DE
+westtrade.at,Westtrade GmbH,Education,13,AT
+westpack.com,Westpack Inc.,Healthcare,397,US
+kraftwerke.de,Kraftwerke GmbH,Public Sector,55,DE
+deltawerke.co.uk,Deltawerke Ltd,Education,228,GB
+sternparts.de,Sternparts GmbH,Retail,19585,DE
+fjordsystems.de,Fjordsystems GmbH,Logistics,2959,DE
+kraftchemie.se,Kraftchemie AB,Financial Services,850,SE
+sternlabs.dk,Sternlabs A/S,Public Sector,502,DK
+norlogistik.it,Norlogistik S.r.l.,Software,2847,IT
+hansawerke.se,Hansawerke AB,Manufacturing,27,SE
+novagroup.de,Novagroup GmbH,Logistics,424,DE
+ostgroup.pl,Ostgroup Sp. z o.o.,Software,37,PL
+lindegroup.es,Lindegroup S.L.,Education,10570,ES
+westsystems.de,Westsystems GmbH,Software,19,DE
+ostpack.de,Ostpack GmbH,Education,52,DE
+alplogistik.fr,Alplogistik SAS,Public Sector,4741,FR
+kraftchemie.fr,Kraftchemie SAS,Retail,13195,FR
+novagroup.pl,Novagroup Sp. z o.o.,Chemicals,219,PL
+deltapack.ch,Deltapack AG,Software,181,CH
+gruengroup.dk,Grüngroup A/S,Chemicals,20,DK
+alpparts.de,Alpparts GmbH,Chemicals,798,DE
+arcpack.de,Arcpack GmbH,Manufacturing,13,DE
+terralogistik.de,Terralogistik GmbH,Logistics,6669,DE
+fjordpack.at,Fjordpack GmbH,Chemicals,1500,AT
+deltachemie.co.uk,Deltachemie Ltd,Chemicals,726,GB
+luxtrade.de,Luxtrade GmbH,Financial Services,16,DE
+bergtrade.se,Bergtrade AB,Manufacturing,309,SE
+hansatech.be,Hansatech NV,Logistics,2385,BE
+terrapack.de,Terrapack GmbH,Retail,531,DE
+blauchemie.at,Blauchemie GmbH,Logistics,298,AT
+gruengroup.de,Grüngroup GmbH,Public Sector,11,DE
+lindetrade.fr,Lindetrade SAS,Financial Services,345,FR
+rijnchemie.be,Rijnchemie NV,Financial Services,8,BE
+novasystems.ch,Novasystems AG,Public Sector,218,CH
+luxchemie.de,Luxchemie GmbH,Manufacturing,81,DE
+arcgroup.de,Arcgroup GmbH,Manufacturing,2783,DE
+rijnlabs.fr,Rijnlabs SAS,Public Sector,409,FR
+lindetech.es,Lindetech S.L.,Retail,14,ES
+alplabs.de,Alplabs GmbH,Chemicals,1575,DE
+sternlogistik.co.uk,Sternlogistik Ltd,Education,54,GB
+rijnlabs.de,Rijnlabs GmbH,Education,212,DE
+arcgroup.nl,Arcgroup B.V.,Chemicals,11999,NL
+westpack.at,Westpack GmbH,Automotive,176,AT
+gruenparts.de,Grünparts GmbH,Education,8,DE
+arclogistik.de,Arclogistik GmbH,Public Sector,536,DE
+novachemie.nl,Novachemie B.V.,Chemicals,7874,NL
+bergwerke.de,Bergwerke GmbH,Public Sector,246,DE
+ostlabs.com,Ostlabs Inc.,Public Sector,501,US
+ostlogistik.de,Ostlogistik GmbH,Logistics,63,DE
+deltachemie.at,Deltachemie GmbH,Chemicals,72,AT
+novagroup.fr,Novagroup SAS,Manufacturing,57,FR
+alptrade.at,Alptrade GmbH,Software,11,AT
+gruengroup.se,Grüngroup AB,Logistics,644,SE
+alpchemie.it,Alpchemie S.r.l.,Software,10,IT
+blauchemie.de,Blauchemie GmbH,Manufacturing,89,DE
+bergpack.de,Bergpack GmbH,Software,1476,DE
+deltatrade.pl,Deltatrade Sp. z o.o.,Chemicals,2816,PL
+lindechemie.se,Lindechemie AB,Software,9,SE
+blaupack.at,Blaupack GmbH,Logistics,27,AT
+sterntech.fr,Sterntech SAS,Healthcare,45,FR
+terratech.de,Terratech GmbH,Automotive,180,DE
+alpwerke.nl,Alpwerke B.V.,Financial Services,1210,NL
+deltaparts.de,Deltaparts GmbH,Automotive,19,DE
+lindelabs.at,Lindelabs GmbH,Education,10,AT
+blauparts.nl,Blauparts B.V.,Public Sector,243,NL
+hansatrade.co.uk,Hansatrade Ltd,Manufacturing,35,GB
+blautech.es,Blautech S.L.,Public Sector,11172,ES
+velaparts.se,Velaparts AB,Software,13,SE
+miraparts.de,Miraparts GmbH,Automotive,2232,DE
+fjordwerke.se,Fjordwerke AB,Automotive,102,SE
+deltachemie.de,Deltachemie GmbH,Financial Services,214,DE
+lindelabs.co.uk,Lindelabs Ltd,Public Sector,84,GB
+norwerke.ch,Norwerke AG,Education,41,CH
+miraparts.dk,Miraparts A/S,Chemicals,253,DK
+alpwerke.es,Alpwerke S.L.,Education,1441,ES
+krafttech.de,Krafttech GmbH,Healthcare,54,DE
+miralogistik.dk,Miralogistik A/S,Education,204,DK
+velatrade.fr,Velatrade SAS,Retail,182,FR
+norlogistik.se,Norlogistik AB,Public Sector,44,SE
+gruentech.it,Grüntech S.r.l.,Logistics,56,IT
+gruenchemie.dk,Grünchemie A/S,Public Sector,1484,DK
+miragroup.se,Miragroup AB,Public Sector,5312,SE
+gruenchemie.fr,Grünchemie SAS,Chemicals,270,FR
+terrawerke.dk,Terrawerke A/S,Automotive,14,DK
+terrawerke.nl,Terrawerke B.V.,Public Sector,97,NL
+alpchemie.de,Alpchemie GmbH,Retail,48,DE
+velalogistik.se,Velalogistik AB,Public Sector,194,SE
+gruentrade.de,Grüntrade GmbH,Financial Services,40,DE
+sternlabs.de,Sternlabs GmbH,Education,6519,DE
+sternsystems.de,Sternsystems GmbH,Automotive,12778,DE
+sterntrade.it,Sterntrade S.r.l.,Public Sector,2773,IT
+mirapack.fr,Mirapack SAS,Financial Services,44,FR
+luxtech.be,Luxtech NV,Financial Services,110,BE
+lindesystems.de,Lindesystems GmbH,Public Sector,17199,DE
+nortrade.co.uk,Nortrade Ltd,Manufacturing,662,GB
+alptrade.de,Alptrade GmbH,Retail,7056,DE
+rijnwerke.be,Rijnwerke NV,Healthcare,103,BE
+westparts.be,Westparts NV,Financial Services,70,BE
+novalogistik.fr,Novalogistik SAS,Public Sector,9,FR
+rijnparts.de,Rijnparts GmbH,Manufacturing,1294,DE
+norpack.de,Norpack GmbH,Education,5685,DE
+kraftpack.de,Kraftpack GmbH,Logistics,325,DE
+arcpack.dk,Arcpack A/S,Software,1904,DK
+lindelabs.pl,Lindelabs Sp. z o.o.,Logistics,15059,PL
+lindewerke.de,Lindewerke GmbH,Automotive,740,DE
+arctrade.be,Arctrade NV,Chemicals,12651,BE
+terralogistik.ch,Terralogistik AG,Education,6199,CH
+hansalabs.de,Hansalabs GmbH,Financial Services,121,DE
+berglogistik.es,Berglogistik S.L.,Manufacturing,1268,ES
+blausystems.de,Blausystems GmbH,Software,237,DE
+gruenchemie.se,Grünchemie AB,Public Sector,31,SE
+novalabs.it,Novalabs S.r.l.,Healthcare,3429,IT
+blaulabs.at,Blaulabs GmbH,Chemicals,99,AT
+alpwerke.dk,Alpwerke A/S,Healthcare,53,DK
+arclabs.be,Arclabs NV,Healthcare,111,BE
+westchemie.fr,Westchemie SAS,Automotive,42,FR
+westwerke.pl,Westwerke Sp. z o.o.,Automotive,1930,PL
+deltatech.es,Deltatech S.L.,Logistics,13321,ES
+terratrade.fr,Terratrade SAS,Chemicals,615,FR
+luxsystems.dk,Luxsystems A/S,Logistics,3957,DK
+ostpack.be,Ostpack NV,Automotive,1793,BE
+arcparts.fr,Arcparts SAS,Software,607,FR
+blaugroup.nl,Blaugroup B.V.,Healthcare,125,NL
+novawerke.at,Novawerke GmbH,Chemicals,48,AT
+westlogistik.it,Westlogistik S.r.l.,Retail,13618,IT
+velapack.fr,Velapack SAS,Education,69,FR
+fjordlabs.ch,Fjordlabs AG,Chemicals,17171,CH
+ostpack.nl,Ostpack B.V.,Manufacturing,32,NL
+rijntech.it,Rijntech S.r.l.,Retail,78,IT
+luxlogistik.de,Luxlogistik GmbH,Healthcare,714,DE
+luxsystems.nl,Luxsystems B.V.,Manufacturing,33,NL
+novasystems.de,Novasystems GmbH,Financial Services,4972,DE
+luxlogistik.co.uk,Luxlogistik Ltd,Manufacturing,1101,GB
+kraftchemie.co.uk,Kraftchemie Ltd,Logistics,13432,GB
+terralogistik.it,Terralogistik S.r.l.,Education,3166,IT
+miralabs.de,Miralabs GmbH,Financial Services,3458,DE
+gruensystems.ch,Grünsystems AG,Financial Services,6697,CH
+ostlabs.pl,Ostlabs Sp. z o.o.,Logistics,12,PL
+velapack.at,Velapack GmbH,Retail,1403,AT
+terrachemie.it,Terrachemie S.r.l.,Manufacturing,14,IT
+blausystems.pl,Blausystems Sp. z o.o.,Manufacturing,316,PL
+terrawerke.ch,Terrawerke AG,Healthcare,1957,CH
+alppack.at,Alppack GmbH,Education,3802,AT
+velatrade.de,Velatrade GmbH,Retail,566,DE
+novachemie.de,Novachemie GmbH,Automotive,12,DE
+miralabs.ch,Miralabs AG,Healthcare,248,CH
+osttrade.at,Osttrade GmbH,Healthcare,401,AT
+gruenlogistik.pl,Grünlogistik Sp. z o.o.,Financial Services,10,PL
+westlabs.at,Westlabs GmbH,Chemicals,9,AT
+arclabs.de,Arclabs GmbH,Automotive,19933,DE
+arctech.de,Arctech GmbH,Healthcare,317,DE
+novachemie.co.uk,Novachemie Ltd,Healthcare,242,GB
+alpsystems.nl,Alpsystems B.V.,Software,195,NL
+hansachemie.nl,Hansachemie B.V.,Healthcare,200,NL
+osttrade.it,Osttrade S.r.l.,Logistics,10,IT
+westwerke.nl,Westwerke B.V.,Financial Services,19,NL
+fjordtech.it,Fjordtech S.r.l.,Manufacturing,297,IT
+velagroup.nl,Velagroup B.V.,Healthcare,1044,NL
+gruentech.de,Grüntech GmbH,Retail,64,DE
+ostsystems.fr,Ostsystems SAS,Education,20,FR
+terrachemie.ch,Terrachemie AG,Public Sector,595,CH
+blaulogistik.de,Blaulogistik GmbH,Logistics,18824,DE
+gruenlogistik.com,Grünlogistik Inc.,Healthcare,5378,US
+ostgroup.at,Ostgroup GmbH,Healthcare,206,AT
+luxpack.dk,Luxpack A/S,Financial Services,597,DK
+velalabs.es,Velalabs S.L.,Retail,2747,ES
+alpwerke.se,Alpwerke AB,Public Sector,114,SE
+novatech.ch,Novatech AG,Education,2345,CH
+arcsystems.de,Arcsystems GmbH,Healthcare,263,DE
+bergparts.it,Bergparts S.r.l.,Financial Services,3128,IT
+terralabs.be,Terralabs NV,Financial Services,49,BE
+rijnparts.fr,Rijnparts SAS,Financial Services,1992,FR
+sternchemie.fr,Sternchemie SAS,Retail,15188,FR
+fjordlabs.nl,Fjordlabs B.V.,Healthcare,7215,NL
+hansagroup.dk,Hansagroup A/S,Retail,9,DK
+luxwerke.nl,Luxwerke B.V.,Financial Services,1049,NL
+alpparts.it,Alpparts S.r.l.,Software,156,IT
+luxgroup.de,Luxgroup GmbH,Chemicals,1002,DE
+blaulogistik.com,Blaulogistik Inc.,Logistics,1971,US
+gruenchemie.ch,Grünchemie AG,Manufacturing,9394,CH
+westtech.ch,Westtech AG,Financial Services,132,CH
+kraftpack.es,Kraftpack S.L.,Retail,201,ES
+lindechemie.de,Lindechemie GmbH,Financial Services,942,DE
+arcchemie.de,Arcchemie GmbH,Automotive,295,DE
+gruenwerke.de,Grünwerke GmbH,Healthcare,9068,DE
+ostgroup.de,Ostgroup GmbH,Software,14,DE
+arcwerke.com,Arcwerke Inc.,Automotive,14859,US
+terratrade.co.uk,Terratrade Ltd,Automotive,132,GB
+osttech.be,Osttech NV,Education,68,BE
+ostpack.pl,Ostpack Sp. z o.o.,Chemicals,4246,PL
+velalabs.at,Velalabs GmbH,Retail,1607,AT
+hansatech.ch,Hansatech AG,Manufacturing,3825,CH
+arcparts.de,Arcparts GmbH,Automotive,16,DE
+westtrade.de,Westtrade GmbH,Public Sector,38,DE
+berggroup.es,Berggroup S.L.,Retail,10163,ES
+westlogistik.dk,Westlogistik A/S,Retail,14960,DK
+terratrade.it,Terratrade S.r.l.,Financial Services,139,IT
+norwerke.it,Norwerke S.r.l.,Software,21,IT
+novalabs.be,Novalabs NV,Software,4984,BE
+hansapack.fr,Hansapack SAS,Public Sector,9,FR
+westlabs.de,Westlabs GmbH,Healthcare,1269,DE
+osttrade.de,Osttrade GmbH,Manufacturing,23,DE
+ostsystems.de,Ostsystems GmbH,Public Sector,17,DE
+krafttrade.dk,Krafttrade A/S,Public Sector,145,DK
+blaulabs.de,Blaulabs GmbH,Logistics,8159,DE
+luxlabs.se,Luxlabs AB,Automotive,12414,SE
+gruensystems.de,Grünsystems GmbH,Logistics,6454,DE
+berggroup.com,Berggroup Inc.,Financial Services,132,US
+novapack.de,Novapack GmbH,Healthcare,13420,DE
+alppack.com,Alppack Inc.,Manufacturing,1191,US
+kraftlabs.de,Kraftlabs GmbH,Public Sector,13,DE
+velalabs.de,Velalabs GmbH,Chemicals,4632,DE
+westchemie.pl,Westchemie Sp. z o.o.,Retail,8,PL
+kraftgroup.at,Kraftgroup GmbH,Logistics,4134,AT
+norchemie.de,Norchemie GmbH,Chemicals,131,DE
+krafttrade.es,Krafttrade S.L.,Logistics,19,ES
+fjordlabs.de,Fjordlabs GmbH,Chemicals,274,DE
+miratech.es,Miratech S.L.,Manufacturing,84,ES
+rijnsystems.be,Rijnsystems NV,Logistics,224,BE
+luxsystems.de,Luxsystems GmbH,Software,9093,DE
+mirachemie.de,Mirachemie GmbH,Education,21,DE
+sternlabs.es,Sternlabs S.L.,Public Sector,80,ES
+miratrade.de,Miratrade GmbH,Logistics,3962,DE
+deltapack.se,Deltapack AB,Chemicals,273,SE
+blauparts.dk,Blauparts A/S,Logistics,181,DK
+westtrade.nl,Westtrade B.V.,Software,1455,NL
+kraftsystems.de,Kraftsystems GmbH,Logistics,16,DE
+bergchemie.it,Bergchemie S.r.l.,Public Sector,12,IT
+blauparts.se,Blauparts AB,Manufacturing,7125,SE
+ostlabs.ch,Ostlabs AG,Education,125,CH
+fjordpack.de,Fjordpack GmbH,Chemicals,1363,DE
+hansaparts.it,Hansaparts S.r.l.,Automotive,141,IT
+arcpack.se,Arcpack AB,Education,5954,SE
+miragroup.de,Miragroup GmbH,Automotive,938,DE
+norchemie.at,Norchemie GmbH,Automotive,1953,AT
+westparts.de,Westparts GmbH,Retail,33,DE
+arctrade.de,Arctrade GmbH,Manufacturing,24,DE
+alpgroup.de,Alpgroup GmbH,Healthcare,151,DE
+westchemie.nl,Westchemie B.V.,Software,91,NL
+rijnchemie.de,Rijnchemie GmbH,Manufacturing,2928,DE
+gruentrade.at,Grüntrade GmbH,Public Sector,43,AT
+hansaparts.se,Hansaparts AB,Education,19,SE
+luxgroup.ch,Luxgroup AG,Financial Services,11,CH
+miratech.de,Miratech GmbH,Chemicals,39,DE
+kraftwerke.ch,Kraftwerke AG,Manufacturing,104,CH
+krafttrade.it,Krafttrade S.r.l.,Public Sector,1968,IT
+sterntech.se,Sterntech AB,Logistics,9,SE
+westlabs.se,Westlabs AB,Financial Services,710,SE
+ostlogistik.be,Ostlogistik NV,Software,9,BE
+lindelabs.dk,Lindelabs A/S,Software,5373,DK
+sterngroup.de,Sterngroup GmbH,Automotive,176,DE
+westpack.nl,Westpack B.V.,Logistics,3552,NL
+fjordlogistik.es,Fjordlogistik S.L.,Software,432,ES
+bergchemie.de,Bergchemie GmbH,Automotive,17,DE
+velachemie.pl,Velachemie Sp. z o.o.,Logistics,26,PL
+lindesystems.dk,Lindesystems A/S,Education,2928,DK
+gruenlabs.com,Grünlabs Inc.,Education,1152,US
+gruenlogistik.fr,Grünlogistik SAS,Automotive,254,FR
+novalabs.de,Novalabs GmbH,Logistics,125,DE
+ostsystems.dk,Ostsystems A/S,Software,10,DK
+ostlogistik.com,Ostlogistik Inc.,Logistics,6914,US
+miralabs.es,Miralabs S.L.,Education,162,ES
+deltatech.dk,Deltatech A/S,Education,9817,DK
+velaparts.pl,Velaparts Sp. z o.o.,Retail,330,PL
+rijnsystems.de,Rijnsystems GmbH,Software,4557,DE
+alpgroup.com,Alpgroup Inc.,Chemicals,30,US
+gruensystems.es,Grünsystems S.L.,Retail,477,ES
+bergparts.ch,Bergparts AG,Software,165,CH
+miratech.com,Miratech Inc.,Logistics,1266,US
+sternwerke.at,Sternwerke GmbH,Education,2302,AT
+kraftparts.de,Kraftparts GmbH,Retail,764,DE
+bergwerke.com,Bergwerke Inc.,Financial Services,1890,US
+ostgroup.be,Ostgroup NV,Software,1229,BE
+kraftgroup.de,Kraftgroup GmbH,Financial Services,1253,DE
+fjordparts.de,Fjordparts GmbH,Retail,136,DE
+velaparts.fr,Velaparts SAS,Retail,35,FR
+kraftlogistik.ch,Kraftlogistik AG,Logistics,5921,CH
+fjordgroup.es,Fjordgroup S.L.,Software,10,ES
+mirachemie.pl,Mirachemie Sp. z o.o.,Retail,152,PL
+lindelabs.de,Lindelabs GmbH,Manufacturing,2257,DE
+blauparts.de,Blauparts GmbH,Education,15764,DE
+luxpack.nl,Luxpack B.V.,Education,1614,NL
+sterngroup.es,Sterngroup S.L.,Retail,211,ES
+novatech.com,Novatech Inc.,Software,343,US
+deltalogistik.es,Deltalogistik S.L.,Automotive,6241,ES
+alpchemie.at,Alpchemie GmbH,Public Sector,269,AT
+krafttrade.de,Krafttrade GmbH,Chemicals,13150,DE
+blautech.be,Blautech NV,Chemicals,406,BE
+sternlogistik.nl,Sternlogistik B.V.,Software,46,NL
+hansaparts.de,Hansaparts GmbH,Automotive,23,DE
+luxchemie.fr,Luxchemie SAS,Manufacturing,267,FR
+alptech.at,Alptech GmbH,Retail,43,AT
+deltalabs.es,Deltalabs S.L.,Automotive,219,ES
+terrawerke.de,Terrawerke GmbH,Financial Services,11,DE
+mirasystems.de,Mirasystems GmbH,Healthcare,19,DE
+kraftwerke.se,Kraftwerke AB,Software,8,SE
+terralabs.se,Terralabs AB,Logistics,34,SE
+fjordgroup.de,Fjordgroup GmbH,Healthcare,169,DE
+rijntrade.nl,Rijntrade B.V.,Manufacturing,58,NL
+berglogistik.nl,Berglogistik B.V.,Logistics,52,NL
+rijnparts.it,Rijnparts S.r.l.,Retail,113,IT
+gruensystems.com,Grünsystems Inc.,Retail,33,US
+alpsystems.de,Alpsystems GmbH,Manufacturing,79,DE
+velatech.nl,Velatech B.V.,Public Sector,11874,NL
+sterngroup.fr,Sterngroup SAS,Chemicals,58,FR
+ostparts.de,Ostparts GmbH,Software,6998,DE
+novalogistik.nl,Novalogistik B.V.,Financial Services,244,NL
+gruentrade.nl,Grüntrade B.V.,Healthcare,16283,NL
+luxparts.es,Luxparts S.L.,Logistics,64,ES
+blaulogistik.se,Blaulogistik AB,Retail,891,SE
+deltawerke.nl,Deltawerke B.V.,Software,17,NL
+ostwerke.dk,Ostwerke A/S,Financial Services,892,DK
+lindesystems.nl,Lindesystems B.V.,Software,264,NL
+miratrade.at,Miratrade GmbH,Manufacturing,1191,AT
+alptrade.nl,Alptrade B.V.,Retail,443,NL
+norchemie.pl,Norchemie Sp. z o.o.,Healthcare,1611,PL
+terraparts.nl,Terraparts B.V.,Education,159,NL
+gruenparts.nl,Grünparts B.V.,Logistics,257,NL
+arcchemie.es,Arcchemie S.L.,Software,141,ES
+norchemie.fr,Norchemie SAS,Public Sector,459,FR
+hansawerke.at,Hansawerke GmbH,Chemicals,1974,AT
+mirawerke.fr,Mirawerke SAS,Retail,38,FR
+gruenlogistik.nl,Grünlogistik B.V.,Logistics,1487,NL
+deltagroup.ch,Deltagroup AG,Retail,8546,CH
+lindeparts.es,Lindeparts S.L.,Chemicals,46,ES
+kraftpack.fr,Kraftpack SAS,Public Sector,9,FR
+arcparts.dk,Arcparts A/S,Public Sector,4304,DK
+alpwerke.be,Alpwerke NV,Healthcare,19936,BE
+fjordtrade.se,Fjordtrade AB,Logistics,5020,SE
+kraftparts.com,Kraftparts Inc.,Healthcare,14,US
+deltalabs.de,Deltalabs GmbH,Retail,3250,DE
+blaugroup.de,Blaugroup GmbH,Public Sector,5346,DE
+lindeparts.de,Lindeparts GmbH,Public Sector,119,DE
+ostlogistik.at,Ostlogistik GmbH,Public Sector,37,AT
+novachemie.com,Novachemie Inc.,Public Sector,85,US
+kraftchemie.pl,Kraftchemie Sp. z o.o.,Education,2247,PL
+velalabs.se,Velalabs AB,Manufacturing,1007,SE
+sternwerke.dk,Sternwerke A/S,Manufacturing,14,DK
+lindesystems.se,Lindesystems AB,Chemicals,353,SE
+westparts.nl,Westparts B.V.,Retail,16495,NL
+berggroup.it,Berggroup S.r.l.,Chemicals,18,IT
+gruenlogistik.at,Grünlogistik GmbH,Retail,269,AT
+sternlabs.se,Sternlabs AB,Retail,55,SE
+westlabs.nl,Westlabs B.V.,Retail,35,NL
+luxgroup.dk,Luxgroup A/S,Automotive,396,DK
+luxtech.de,Luxtech GmbH,Public Sector,13029,DE
+gruenpack.de,Grünpack GmbH,Manufacturing,767,DE
+rijnwerke.fr,Rijnwerke SAS,Healthcare,857,FR
+hansatrade.de,Hansatrade GmbH,Software,7972,DE
+sterntech.co.uk,Sterntech Ltd,Software,648,GB
+deltawerke.de,Deltawerke GmbH,Healthcare,164,DE
+deltawerke.pl,Deltawerke Sp. z o.o.,Logistics,1640,PL
+kraftlogistik.be,Kraftlogistik NV,Software,148,BE
+rijntech.de,Rijntech GmbH,Healthcare,2127,DE
+lindetrade.pl,Lindetrade Sp. z o.o.,Automotive,2601,PL
+arcparts.es,Arcparts S.L.,Public Sector,5218,ES
+luxlabs.ch,Luxlabs AG,Manufacturing,328,CH
+bergparts.de,Bergparts GmbH,Education,17089,DE
+osttech.pl,Osttech Sp. z o.o.,Education,327,PL
+fjordlabs.be,Fjordlabs NV,Chemicals,25,BE
+velatech.dk,Velatech A/S,Retail,93,DK
+blaupack.se,Blaupack AB,Education,405,SE
+fjordpack.it,Fjordpack S.r.l.,Healthcare,101,IT
+fjordtrade.nl,Fjordtrade B.V.,Healthcare,14251,NL
+deltaparts.it,Deltaparts S.r.l.,Automotive,127,IT
+terrawerke.it,Terrawerke S.r.l.,Automotive,82,IT
+ostpack.fr,Ostpack SAS,Software,95,FR
+deltawerke.ch,Deltawerke AG,Public Sector,20,CH
+sterntrade.nl,Sterntrade B.V.,Retail,14021,NL
+osttech.ch,Osttech AG,Logistics,14099,CH
+bergsystems.com,Bergsystems Inc.,Healthcare,59,US
+velapack.it,Velapack S.r.l.,Public Sector,66,IT
+terratech.es,Terratech S.L.,Chemicals,46,ES
+rijnlogistik.se,Rijnlogistik AB,Healthcare,106,SE
+hansachemie.de,Hansachemie GmbH,Retail,15151,DE
+blausystems.fr,Blausystems SAS,Automotive,1298,FR
+westwerke.com,Westwerke Inc.,Logistics,12,US
+arcpack.it,Arcpack S.r.l.,Manufacturing,2588,IT
+lindetrade.de,Lindetrade GmbH,Manufacturing,11926,DE
+osttech.de,Osttech GmbH,Education,82,DE
+hansaparts.ch,Hansaparts AG,Public Sector,279,CH
+fjordsystems.at,Fjordsystems GmbH,Logistics,36,AT
+westchemie.dk,Westchemie A/S,Retail,1276,DK
+norparts.ch,Norparts AG,Chemicals,679,CH
+hansa-logistik.de,Hansa Logistik GmbH,Logistics,3400,DE
+nordic-pack.se,Nordic Pack AB,Manufacturing,2600,SE
+rijn-chemie.nl,Rijn Chemie B.V.,Chemicals,5100,NL

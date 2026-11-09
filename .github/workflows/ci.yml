@@ -1,0 +1,39 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install
+        run: pip install -e ".[dev]"
+      - name: Regenerate data and re-run the evaluation from scratch
+        run: |
+          python scripts/generate_data.py
+          python scripts/evaluate.py
+      - name: Tests
+        run: pytest -q
+      - name: Results summary
+        run: |
+          python - <<'EOF' >> "$GITHUB_STEP_SUMMARY"
+          import json
+          r = json.load(open("docs/results.json"))
+          s, d, ro = r["scoring"], r["dedupe"], r["routing"]
+          print("## Lead routing engine: results\n")
+          print("| Metric | Value |\n|---|---|")
+          print(f"| Scoring AUC, workshop points → calibrated | {s['auc_workshop_points']} → {s['auc_calibrated']} |")
+          print(f"| Top-10% lift, points → calibrated | {s['lift_top10_points']}× → {s['lift_top10_calibrated']}× |")
+          print(f"| Duplicates found / planted | {d['found']} / {d['planted']} (precision {d['precision']}) |")
+          print(f"| Leads routed | {ro['leads_routed']} |")
+          print(f"| Mid-market load spread (max − min) | {ro['midmarket_balance_max_minus_min']} |")
+          print("\n### Leads per queue\n\n| Queue | Leads |\n|---|---|")
+          for q, n in sorted(ro["by_queue"].items(), key=lambda x: -x[1]):
+              print(f"| {q} | {n} |")
+          EOF
